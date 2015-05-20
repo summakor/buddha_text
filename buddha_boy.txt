@@ -5,7 +5,9 @@ Austrian Airlines is big on hot rolls. Red-clad ﬂight attendants continually t
 Ancient Mariner–style, my seatmate, a Kosovar, tells me about a Serbian paramilitary group called the Black Hand that left a childhood friend of his on a hillside, “cut into tiny pieces.” During the occupation, he says, the Serbs often killed babies in front of their parents. He is kindly, polite, awed by the horrible things he’s seen, grateful that, as an American citizen, he no longer has to worry about murdered babies or hacked-up friends, except, it would appear, in memory, constantly.
 
 Story told, he goes off to sleep.
+
 kjhgfsdasdfgh
+
 
 But I can’t. I’m too uncomfortable. I’m mad at myself for eating two roolz during the last Round of Roolz, roolz that seem to have instantaneously made my pants tighter. I’ve already read all my books and magazines, already stood looking out the little window in the ﬂight-attendant area, already complimented a severe blond ﬂight attendant on Austrian Airlines’ excellent service, which elicited an oddly Austrian reaction: She immediately seemed to ﬁnd me reprehensible and weak.
 
@@ -19,4 +21,8 @@ The mind is a machine that is constantly asking: What would I prefer? Close your
 
 I know this. But still I’m full of desire. I want my legs to stop hurting. I want something to drink. I even kind of want another hot roll.
 
+<<<<<<< HEAD
 Seven months, I think? The kid has been sitting there seven months?
+=======
+Seven months, I think? The kid has been sitting there seven months?
+>>>>>>> bcc987708583432bddeb6caada8c1d8317a1e862
